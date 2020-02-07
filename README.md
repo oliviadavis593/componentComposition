@@ -1,2 +1,0 @@
-# componentComposition
-Created with CodeSandbox
